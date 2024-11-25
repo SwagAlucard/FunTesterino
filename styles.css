@@ -1,0 +1,46 @@
+img {
+    height: 200px;
+    width: 200px;
+  }
+
+  h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(248, 4, 175);
+  }
+
+div{
+  color: red;
+  text-align: center;
+}
+.MainPageLinkerino {
+  display: block;
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+body{
+  background-color: rgb(33, 14, 43);
+}
+
+footer{
+  color: white;
+}
+
+.Alu-vs-Goku{
+  color: rgb(236, 229, 229);
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Alu-vs-Goku2{
+  color: rgb(236, 229, 229);
+  text-align: center;
+
+}
